@@ -679,6 +679,7 @@ section .container {
   justify-content: center;
   margin-bottom: 20px;
   transform-style: preserve-3d;
+  object-fit: fill;
 }
 
 .certificates .icon-box .icon i {
