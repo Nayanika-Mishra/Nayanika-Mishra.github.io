@@ -665,6 +665,7 @@ section .container {
   background: rgba(204, 204, 204, 0.1);
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
+  object-fit: fill;
 }
 
 .certificates .icon-box .icon {
@@ -679,7 +680,6 @@ section .container {
   justify-content: center;
   margin-bottom: 20px;
   transform-style: preserve-3d;
-  object-fit: fill;
 }
 
 .certificates .icon-box .icon i {
