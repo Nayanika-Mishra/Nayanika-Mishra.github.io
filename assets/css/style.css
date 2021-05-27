@@ -669,7 +669,10 @@ section .container {
 }
 
 .certificates .icon-box .icon {
-  margin: 0 auto;
+  margin-top : 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
   width: 64px;
   height: 64px;
   background: #18d26e;
